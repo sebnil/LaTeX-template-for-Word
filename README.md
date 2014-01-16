@@ -1,7 +1,7 @@
 LaTeX-template-for-Word
 =======================
 
-Many lack a good template for writing academic lab reports and therefore, I am sharingmy LaTeX like template in Word. 
+Many people lack a good template for writing academic lab reports and therefore, I am sharingmy LaTeX like template in Word. 
 LaTeX is a typesetting language used primarily in academic environments. 
 Characteristics of a LaTeX report is often numbered headings, a special font (computer modern) and wide margins. 
 The benefits of LaTeX are numerous but sometimes it can be more time efficient to write the report in Word.
